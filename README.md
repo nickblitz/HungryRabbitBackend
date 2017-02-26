@@ -1,16 +1,13 @@
-## Native Starter Pro back-end  v5.2.0
+## HungryRabbit Backend
 
-Thanks for purchasing the Native Starter Pro with back-end.
+HungryRabbit express backend for Restful endpoints
 
 ### Installation procedure
 
 **1. Downloading the code**
 
-  **Option #1**: Download the zip [here](http://gitstrap.com/strapmobile/NativeStarterPro-backend/repository/archive.zip?ref=master)
+  Clone the repo with `git clone git@github.com:nickblitz/HungryRabbitBackend.git`
 
-  **Option #2**: Clone the repo with `git clone http://gitstrap.com/strapmobile/NativeStarterPro-backend.git`
-
-  **Option #3**: Follow this [guide](https://strapmobile.com/docs/react-native-taxi-app-theme/v4.0.0/installation/gitstrap-cli-tools) to clone using GitStrap which will allow easier syncing with future updates.
 
 **2. Starting the server**
 
